@@ -1,0 +1,45 @@
+Download Git: [Git - Downloads (git-scm.com)](https://git-scm.com/downloads)
+
+O Git Bash é um terminal estendido para otimizar o uso do Git.
+
+Dir -> lista as pastas que têm.
+
+Cd / -> ele me leva para o diretório, nesse caso para o diretório “C”, dentro dele, podemos usar o dir, para mostrar as pastas que tem.
+
+Cd Windows -> entramos na pasta Windows 
+
+Cd .. -> para retroceder uma pasta
+
+Cls -> para limpar o terminal. 
+
+Mkdir workspace -> o mkdir ele cria uma pasta, e depois dele vc coloca o nome da pasta, nesse caso workspace 
+
+Echo -> ele traz de novo a frase ou texto que você está passando. EX: echo olá -> ele retorna o olá no terminal 
+
+“Echo hello > hello.txt “ -> aqui ele cria um arquivo e jogar dentro oq o echo tá passando, nesse caso tô criando um arquivo hello.txt e dentro dele está a palavra hello.
+
+O del -> ele se restringir apenas a deletar arquivos e não a pasta. 
+
+Utilizando a tecla  ⬆ ele traz os últimos comandos que foi utilizado. 
+
+Rmdir workspace /S /Q -> o rmdir ele deleta o repositório ou seja a pasta, nesse caso a pasta workspace, e utilizamos os flags /S e /Q para deletar a pasta. 
+
+
+
+Untracked -> é o arquivo que o git não tem conhecimento dele 
+
+Unmodified -> não foi modificado 
+
+Modified - > arquivo que foi modificado 
+
+Staged -> onde os arquivos estão se preparando, para fazer parte de outro tipo de agrupamento. 
+
+
+
+O git sabe se tem modificação ou não, pelo sha1 diferente 
+
+
+
+Git status -> ajuda a monitora quais os estados dos arquivos 
+
+Mv -> serve para mover o arquivo de pastas 
